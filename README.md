@@ -1,2 +1,2 @@
-# Collin
-programming 
+
+a computer programming student 
